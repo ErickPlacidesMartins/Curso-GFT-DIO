@@ -1,0 +1,122 @@
+Aula 1 -Pensamento computacional 
+
+Este não se restringe a somente a area tecnologica;
+
+Pensamento envolvido na expressão de soluções
+Habilidade generialista ( não é disciplina academica)
+
+Decomposição = problema complexo sendo dividido por menores problemas e resolviveis ex: bolos dividir em partes ( massa , cobetura , recheio)
+
+Padrões =  identifcar similidarieda no mesmo contexto;
+
+abstração =  es designa pegar uma diea não palpavel para criar , pega um problema e generaliza;
+
+
+
+Design de algoritimos = defini o passo a passo das instruções para resolver o problema
+
+input - operador- output
+
+refinamento-teste-análise-refinamento -teste 
+
+Raciocinio Logico  - decomposição-Padrões- abstração-algoritimo-refinamento -inicia de novo
+
+ex a modelagem e mapeamento de genoma humano
+
+Pensamento sistematico
+deliberações
+creatividade
+facilitador
+
+Raciociniologico - pensamento estrturado, segmenta o porblea  e resolve por partes 
+
+Indução Fenomeno observado
+
+dedução Previsõe e explicações
+
+Abdução Premissa= conclusão diagnostica
+
+Inferência- analitica - dedução
+Inferência - Sintetica- abdução ou  Indução
+
+melhoramento -aprimoramento- aperfeiçoar 
+
+Pilare:
+
+Decomposição = segmentar o problema, resolver e depois recompor o problema original
+fazer em paralelo = eficiência  - tempo
+
+
+Padrõe = Repetição, detecta similidades e diferenças 
+Os atributos precisam ser apresentados conceito orientado ao objeto ex machine learning/IA
+
+
+Abstração = Isolar um objeto da realidade, olhar apenas os pontos essenciais
+
+Algoritimos= são instruções detalhadas para o comutador processaar
+
+narrativa/ fluxograma/ pseudocodigo
+
+
+Aula 2 Logica de Programação
+
+Para auxiliar a resolver problemas, dedução, indução, hipoteses, Inferência
+Uma forma de raciocinio para resolver o problemas com instruçoes assertivas
+
+no cotidiano ex. as instruções como o passo a passo para fazer seu café da manhã
+
+técnicas de logica de Programação ex Planta baixa, Projeto, Planejamento
+
+Técnica Linear = não tem vinculo e segue uma estrutura hierarquica, execução sequencial de operações;
+
+Técnica Esrtruturada =  disposição e ordem dos elementos essenciais que compõe um corpo
+Objetivo = escrita, entendimento, validação, manutenção = programa
+
+Técnica Modular =  Controlada por um conjunto de regras por partes independentes para solução 
+Dados de entrada - Transformação - dados de saída
+simplificar, decompor o problema', verificação por modulos
+
+Aula 3- Fundamentos de algoritimos 
+
+tipologias e variaveis 
+informação  após dados e/ou instruções os dados são tratados e processados
+
+tipos numéricos  
+inteiros  int/float sem casa decimais
+reais possuem casas decimais
+caracteres ex:#!cA2 (string)
+
+Tipo Logico 
+Booleanos = Verdadeiro ou Falso
+
+
+variáveis
+possui variações na estrutura ex, mutável, insconstantes, instével, 
+pode assumir qualque um dos valores porém restrita a seu tipo;
+segue regras atribuindo um ou mais caracteres (nome da variavel sem espaço em branco)
+proibidos palavras reservadas da linguagem 
+
+papel do variável ( ação ou controle)
+variavel fixa é uma "constante" constante
+
+
+Instruções primitivas 
+As instruções primitivas em cada linguagem de programção possui sintaxe particulares da linguagem
+
+Estrutura condicional simples = condição - operação - fim
+Estrtura composta dado a condição - é verdadeira? não!! então a operação possuirá um Senão ( SE / SENÂO)
+Estrtura encadeada SE então de forma repetitiva até atingir o objetivo 
+
+Operadores logicos 
+AND / Operador logico verifica as entradas que precisam ser satisfeitas se um condição for falsa ele retorna FALSE ( SE / Senão)
+OR / precisa apenas que uma condição seja verdadeira para retornar TRUE ()
+NOT /inversão do operador , iversão de resultado.
+
+
+Estrutura de Repetição
+Para não cair em loop eterno precisa ser criado uma condição pré fixada
+O loop existe para ajudar na redução de linha e redução de erros 
+
+Enquanto
+repetitiva para de  até (FOR) numero de repetições definidas
+estruturas de repetições consegue usar uma dentro da outra
