@@ -120,3 +120,47 @@ O loop existe para ajudar na redução de linha e redução de erros
 Enquanto
 repetitiva para de  até (FOR) numero de repetições definidas
 estruturas de repetições consegue usar uma dentro da outra
+
+vetores e matrizes
+
+vetor vai ser uma sequência de dados, uma variavel com sequênci,
+
+matriz é uma tabela de linha e colunas 
+"m" horizontal e "n" vertical = m x n
+
+Os índices determina a linha e coluna que se encontra o objeto
+
+um codigo bem escrito economiza linhas 
+
+Operações = Definição/ Atribuição/ Leitura
+
+Oque são funções;
+vem da matematica = subalgoritimo/ bloco/ metodo/sub-rotina
+
+
+ex f: A - B
+
+são blocos de instruções para tarefas especificas 
+modularização do programa, facilita até na manutenção, codigo mais claro
+identificados por nome e parametros
+
+Definição/ Nome /Invocação/ Variável local
+
+ex:  function mediaescolar(nota1,nota2)
+     resultado = 0
+     resultado = (Nota1= Nota2)/2
+
+     return resultado
+     fim function
+
+ Instrução de entrada e saída
+ inserção de dados / processamento / Resultado    
+
+ existem dois tipos de saida 
+ saída programada: condiconal aguarda o dispositivo
+ saída por interrupção
+
+ toda saída tem:
+ bem sucedida
+ errro de sintaxeerros no codigo
+ problemas de inface
