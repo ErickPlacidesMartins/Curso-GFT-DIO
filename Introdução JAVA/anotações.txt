@@ -1,0 +1,50 @@
+config ambiente Java 
+Eclipse identificar
+
+foi criado na decada de 90  e adiquirido pela oracle em 2008
+
+estude paradigma de orientação a objeto (ESTUDE)
+pode ser desk ou mobile
+
+linguagem interpretada 
+
+programa java 
+compilador programa classe  .class
+JVM linguagem de maquina maquina virtual JMV
+
+um exemplo a linguagem C compilada/ execução / Os
+JAva = compilada/ interpretada=JVM / executada/ OS
+
+LInguagem java não é a unica linguagem da plataforma Java   (groovy e JRuby tb)
+
+crie uma vez e execute em qualquer lugar  atraves do JRE interpretado pela JVM
+
+
+JAva SE base 
+JAva EE cuida do dev web
+JAva ME moveis e embarcados ( sistema que roda em um dispositivo proprio e função propria so dele ex: calculadora , urna  )
+
+codigo fonte extensão .java
+depois jdk para compilar  extensão  .class
+a JVM lê o arquivo compilado   . class e as bilbiotecas que estão no JRE
+
+O dev usa o JDK  compila o .java para o .class
+o Usuario para rodar o sistema so precisa do JRE
+JVM executa o .class
+o JRE fornece as bibliotecas para o JDK compilar o codigo e JVM executar
+
+existe a versão paga e gratuita
+
+o OpenJDK é gratuita vigente é SE16 mas a LTS é Java 11 que iremos usar 
+a JDK Oracle é paga licença codigo binario 
+
+vai surgir a SE17 LTS
+IDE = Ambiente de desenvolvimento integrado
+junta na GUI unica interface grafica 
+Usar o Development Kit ou JDK
+o JDK faz parte da IDE
+
+Eclipse é uma IDE para desenvolvimento Java mas suporte varias ouras linguagens
+
+o Intellij DEA é um ambiente escrito em Java 
+ 

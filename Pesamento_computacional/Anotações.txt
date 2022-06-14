@@ -162,5 +162,66 @@ ex:  function mediaescolar(nota1,nota2)
 
  toda saída tem:
  bem sucedida
- errro de sintaxeerros no codigo
+ erro de sintaxe 
+ erros no codigo
  problemas de inface
+
+Linguagem de Programação é um método padronizado com conjunto de regras sintáticas e semânticas para 
+implemetação de um codigo fonte;
+
+Codigo Fonte / Traduzido ou interpretado
+
+Processo de tradução,: linguagem enviada para o compilador que faz a análise e traduz o codigo de alto para baixo nivel 
+
+Programa Fonte/ Compilador/Programa Objeto/ Linguagem da maquina
+
+
+Tradução = tem geração do programa objeto
+Execução do programa objeto
+
+Interpretação faz a execução direta do programa fonte maior flexibilidade
+
+Transpilação = ex Typescript e transpílado para javascript
+
+
+Traduzidos= C++/ javascript
+Interpretado= Javascript
+
+Caracteristica de um programa
+
+
+Desenvolvimento =  
+legibilidade = coerência no codigo, facilidade leitura/ 
+Redigibilidade = coerência nas instruções, suporte a abstração/ 
+Confiabilidade = Compatibilidade entre compiladores,  faz oque foi criado para fazer/ 
+Custo = Treinamento, Codificação , análise de impacto
+
+Como o computador análise nosso codigo?
+analyzer= lexial/ syntax/ semantic/ Code
+
+Análise lexica = Particionar, classificar(strings,numero) e eliminar o que não é necessário
+elementos to
+
+Analise sintatica = componetntes linguisticos ex os termos reservados da linguagem
+
+análise semantica =  relação significante  igual =/==/>=
+
+Paradigmas 
+forma de resolução de problemas 
+
+Classificações de Paradigmas
+
+Orientação à objeto = tenta ser análogo o mundo real, O que tenho?( modelo, cor, carga) sou capaz de fazer?(escrever, desenhar,rabiscar)
+como faço?(Tampada, destampada, em uso), 
+Classificação:Modelos/atributos/Métodos/Estados
+
+Pilares da orientção a objeto= Herança(classe, atributo,métodos)/ encapsulamento/ poliformismo/ abstração
+
+a vantagem da POO é reuso o codigo
+
+Procedural =  cahamadas sucesivas e procedimentos separados
+Funcional = Instruções baseadas em funções
+Estrtuturado = estruturado em blocos enfase em sequencia ex linguagem C dominou o ercado até chegar a POO
+Computação distribuida = funções executadas de forma independente.
+Logico = 
+
