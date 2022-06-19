@@ -1,0 +1,69 @@
+Variáveis, Tipos de dados e Operadores aritméticos;
+
+Conceituação e criação:
+
+Uma variavel usa um espaço na memoria do computador para guardar valores
+
+instancia : objeto
+Classe: classe
+Local: dentro de métodos
+Parametros: Na assinatura do método
+
+<?visibilidade?><?modificador?>tipo nome<?=valorInicial?>;
+
+v= public, protected, private
+m= static e final ex 'int final j =10;' = valor const não consegue alterar
+t=tipo de dados e 
+n= nome da variável
+vI= valor incial caso deseje
+
+variaveis não podem começar com numero, evitar $ e _ , sem espaços, cuidado com maiuscula e miniscula, não usar 
+palavras reservadas do Java.
+
+Sempre começar com letra minuscula
+nome experessivo de facil entendimento
+notação camelo =  ex nome "minhaVariavel"
+quando for "m = const final" usar tudo maiusculo e com _ ex: "MINHA_VARIAVEL"
+
+Tipos de dados:
+São valores e consequentemente operações que variaveis podem assumir
+Tipificação:
+forte = estatica ( linguagem obg você definir o tipo da var na criação) 
+fraca = dinâmica ( não é obg a definir a var incialmente na criação)
+primitvas = valores numericos , textuiais
+compostas = ligado a orientação a objetos, pode ser composto de varios tipo de dados primitivos
+
+OPções de tipos;
+
+Textual = ex char c= '/i0084';  ,  String  ex String s= "t"; char aspa simples / String aspas duplas
+Numeral int = 123456789
+Numeral float / double (real) = 3.14(f) /5.15(d)
+Logico = booleanos true ou false
+Objeto;
+
+
+Operadores aritméticos:
+Simbolos especiais para realizar ações sobre operando  e retornar um resultado
+
+tipos:
+pos fixado: exp++ soma 1 unidade tardia (primeiro a expressão e depois adiciona) 
+ou exp-- (primeiro a expressão e depois subtrai) 
+pré fixado: ++exp (primeiro adiciona e depois expresão)
+ou --exp (primeiro subtrai e depois expresão)
+aritméticos: +, -, *, /, %
+atribuição: =, +=, -=, /= e %=
+
+Conversões ou Casting:
+
+transformação de variavel de um tipo menos especifico para mais especifico
+ou vice -versa, promovendo ou rebaixando
+ex pegando uma variavel de um tipo menor de armazenamento e 
+convertendo em uma variavel de tipo maior de armz e vice versa.
+
+existem dois tipos de casting:
+
+Upcast ( implicito) = promoção de um tipo de dados de menor para maior
+Downcast ( explicito) = tem que dizer qual tipo exatamente esta querendo rebaixar
+
+
+
