@@ -1,0 +1,61 @@
+Este modulo será para entender o que são métodos Java
+
+Criação:
+Oque é : uma porção de codigo que é dipsonibilizada por uma classe é executado quando feito uma requisição
+
+Padrão de definição:
+
+visibilidade = public, protected ou private
+tipo = concreto ou abstrato
+modificador = static ou final
+retorno =  tipo de dado ou void
+nome = nome que é fornecido ao método
+(parâmetros) = que pode receber
+exceções = que pode lançar
+corpo = código que possui ou vazio
+
+neste módulo ser´mais utilizado 
+public static retorno nome (parametro){...}
+
+Particularidades
+Assinatura é a forma de identificar unicamente o método Ass=nome + parametros
+
+
+Metodo:
+public double calcularTotalVenda(double precoItem1, double precoItem2, double precoItem3) {...}
+
+Assinatura :calcularTotalVenda(double precoItem1, double precoItem2, double precoItem3)
+
+Só o nome + () vazio tambem é assinatura
+Construtor e Destrutor são metodos especiais usados na Orientação a Objetos .
+Mensagem: ato de solicitar ao método que o mesmo execute pode ser direcionado a classe ou objeto
+
+A passagem de parametros pode ser por valor ou referência 
+
+Boas práticas 
+
+Nome discritivos e curtos, 
+notação camelo, 
+deve possuir entre 80 a 120 linhas= criando metodos auxiliares para ser chamado pelo principal
+evite lista de parametros longas
+visibilidades adequadas
+
+Sobrecarga:
+O que é uma sobrecarga? 
+é a capacidade de definir um metodo para diferente contextos mas preservando seu nome;
+
+Retornos:
+Return é uma instrução de interrupção assim como o break
+
+quando é executado?
+Completa todas suas instruções internas
+chega uma declaração explicita de retornoLança uma exceção
+
+pode ser primitivo ou objeto
+
+o tipo de dado do return precisa ser compativel com o do método 
+
+
+exemplo 
+return "OLá" deve ser uma public String
+return 2.36; deve ser uma public double
